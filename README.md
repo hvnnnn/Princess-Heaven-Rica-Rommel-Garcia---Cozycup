@@ -56,17 +56,18 @@ Contains the café’s contact details.
 ## Connect with Us
 
 <a href="https://facebook.com/hvvvvn" target="_blank">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="30"/>
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="30" style="border-radius: 50%;" />
 </a>
 
 <a href="https://github.com/hvnnnn" target="_blank">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30"/>
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30" style="border-radius: 50%;" />
 </a>
 
 <a href="https://facebook.com/rommel.garcia.31924792" target="_blank">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="30"/>
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="30" style="border-radius: 50%;" />
 </a>
 
 <a href="https://github.com/melgrc" target="_blank">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30"/>
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30" style="border-radius: 50%;" />
 </a>
+
